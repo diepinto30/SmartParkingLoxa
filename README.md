@@ -1,2 +1,2 @@
 # SmartParkingLoxa
-Aplicación busca de la gestión de los estacionamientos en la ciudad.
+Aplicación que busca de la gestión de los estacionamientos en la ciudad.
